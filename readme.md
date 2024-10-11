@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the **Spotify Liked Songs Downloader**! If you've ever found yourself grooving to a new tune on Spotify, only to realize that when it comes time to hit the download button you remember that you dont have a **premier account** , fear not! This script is here to rescue your musical memory. It automatically snags those sweet jams you’ve liked on Spotify and downloads them straight to your specified folder, so you can jam out anytime, anywhere—without needing to rely on your questionable memory!
+Welcome to the **Spotify Liked Songs Downloader**! If you've ever found yourself grooving to a new tune on Spotify, only to realize that when it comes time to hit the download button you remember that you dont have a **premium account** , fear not! This script is here to rescue your musical memory. It automatically snags those sweet jams you’ve liked on Spotify and downloads them straight to your specified folder, so you can jam out anytime, anywhere—without needing to rely on your questionable memory!
 
 *P.S. You don’t need a Spotify Premium account for this script to work its magic. This script is intended for educational purposes only and is not meant to infringe on artists' rights or steal their work. Always support your favorite artists!*
 
