@@ -10,9 +10,10 @@ Welcome to the **Spotify Liked Songs Downloader**! If you've ever found yourself
 
 Alright, so here’s the situation: I might not be a coding genius, but there’s a little snag when it comes to extracting audio. I need to have **FFmpeg** downloaded to make this work. The funny part? I don’t have it, and I’m guessing you don’t either—unless you’ve got some secret tech stash I don’t know about!
 
-When you try to download your favorite jam, it throws an error like it’s trying to tell you, “Nope, not today!” But don’t sweat it! Just keep enjoying your music and giving those songs some love. Who needs audio extraction when you can vibe out like there’s no tomorrow? 🎶
+When you try to download your favorite jam, it throws an error like it’s trying to tell you, "**Preprocessor error**." But don’t worry about it! Just keep enjoying your music and showing those songs some love—your favorite song will be downloaded in the background without any issues. Who needs audio extraction when you can vibe out like there’s no tomorrow? 🎶
 
-So, keep listening and keep liking—because life’s too short for anything less than awesome tunes!
+So, keep listening and keep liking—because life’s too short to fix these minor issues.
+
 
 
 ## Features
