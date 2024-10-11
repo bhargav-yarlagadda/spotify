@@ -21,25 +21,26 @@ So, keep listening and keep liking—because life’s too short for anything les
 - **Saves You from Regret**: Never lose track of that banger you liked during a late-night scrolling session. It’s like having a personal assistant for your music library (but less judgmental).
 - **Customizable Download Folder**: Choose where your musical treasures go, so you don’t accidentally download them to your “I’ll Never Look at This Again” folder.
 
-## Features
-- **Fetches and displays your currently liked songs.**
-- Monitors for new liked songs in real time.
-- **Automatically downloads any new liked songs to your specified folder.**
-
 ## Requirements
 - Python 3.x
 - `spotipy` library for interacting with the Spotify API
 - `python-dotenv` library for managing environment variables
 - `yt-dlp` for downloading audio from YouTube
 
-## important steps
-- make sure that you set up .env file and store the id in .env
-- make sure that you set up your spotify developer account
-### Update this to your actual folder path
-- set your directory for storing downloaded songs 
-    my directory is
-**DOWNLOAD_FOLDER = r'c:\Users\bhargav\OneDrive\Desktop\spotify_downloads_with_69_others'**  
+## Heads Up!
 
+Before you dive in, here are some important steps to follow:
+
+- Make sure to set up your `.env` file and store your **Spotify Client ID** in it. This will keep things neat and secure.
+- Ensure your **Spotify Developer Account** is fully set up and ready to go.
+- Follow the steps mentioned in the Spotify Developer documentation. You’ll need to verify your account by being redirected to a URL. Once you’re authenticated, a `.cache` file will be generated, containing the all-important **access token** (your key to the Spotify kingdom 🎶).
+
+### Update This to Your Actual Folder Path
+Don’t forget to set your directory for storing downloaded songs. For example, my directory looks like this:
+
+```python
+DOWNLOAD_FOLDER = r'c:\Users\bhargav\OneDrive\Desktop\spotify_downloads_with_69_others'
+```
 
 ## Setup
 1. **Clone the repository** (if applicable):
