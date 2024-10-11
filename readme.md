@@ -64,6 +64,10 @@ DOWNLOAD_FOLDER = r'c:\Users\bhargav\OneDrive\Desktop\spotify_downloads_with_69_
         ```bash
         source env/bin/activate
         ```
+    - To Exit:
+        ```bash
+        deactivate
+        ```
 
 4. **Install dependencies**:
     ```bash
